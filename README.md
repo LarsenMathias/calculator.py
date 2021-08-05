@@ -1,1 +1,1 @@
-# calculator.py
+#simple codes
